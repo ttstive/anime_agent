@@ -1,0 +1,19 @@
+[project]
+name = "anime-agent"
+version = "0.1.0"
+description = "anime mcp server connected with the jikan api, an api that bring information from myanimelist, the official website of animes"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.26.0",
+    "requests>=2.32.5",
+    "mcp",
+    "httpx",
+    "anthropic>=0.77.0",
+    "google-generativeai>=0.8.6",
+    "google-genai>=1.61.0",
+    "rich>=14.3.1",
+]
+[project.scripts]
+anime-mcp = "Anime_Agent.server:main"
