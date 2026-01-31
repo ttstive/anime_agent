@@ -71,6 +71,6 @@ git clone [https://github.com/ttstive/anime_agent.git](https://github.com/ttstiv
 cd anime_agent
 
 <img width="2348" height="1598" alt="image" src="https://github.com/user-attachments/assets/5397764e-dc74-4e31-9ff8-3b1770466345" />
-<img width="1123" height="744" alt="Captura de Tela 2025-12-18 às 11 46 54" src="https://github.com/user-attachments/assets/6fcf4494-8467-48ef-9269-cda895e51113" />
+<img width="2348" height="1598" alt="image" src="https://github.com/user-attachments/assets/d11eae38-8e0d-4b32-a288-98d2391d0966" />
 
 
