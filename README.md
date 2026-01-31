@@ -66,7 +66,7 @@ anime_agent/
 │   └── pyproject.toml
 ├── .env
 ├── .gitignore└── README.md
-
+```
 git clone [https://github.com/ttstive/anime_agent.git](https://github.com/ttstive/anime_agent.git)
 cd anime_agent
 
